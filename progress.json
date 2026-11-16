@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:45:07.759Z",
+  "generated_at": "2026-11-16T19:27:34.501Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -260,6 +260,19 @@
       "last_pushed_at": "2026-11-16T18:45:03.870Z",
       "language": "sql",
       "lines": 8
+    },
+    "problem:1115": {
+      "kind": "problem",
+      "id": "1115",
+      "title": "Month-over-Month Percentage Change with LAG",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1115",
+      "path": "problems/1115-month-over-month-percentage-change-with-lag",
+      "first_solved_at": "2026-11-16T19:27:30.680Z",
+      "last_pushed_at": "2026-11-16T19:27:30.680Z",
+      "language": "sql",
+      "lines": 35
     }
   }
 }
