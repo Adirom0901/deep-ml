@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:39:42.929Z",
+  "generated_at": "2026-11-17T19:23:44.279Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -297,6 +297,19 @@
       "path": "math/0028-bayesian-methods",
       "first_solved_at": "2026-11-17T18:39:38.079Z",
       "last_pushed_at": "2026-11-17T18:39:38.079Z"
+    },
+    "problem:1114": {
+      "kind": "problem",
+      "id": "1114",
+      "title": "Rank Rows Within Partitions Using Window Functions",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1114",
+      "path": "problems/1114-rank-rows-within-partitions-using-window-functions",
+      "first_solved_at": "2026-11-17T19:23:37.666Z",
+      "last_pushed_at": "2026-11-17T19:23:37.666Z",
+      "language": "sql",
+      "lines": 5
     }
   }
 }
