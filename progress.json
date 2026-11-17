@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:58:55.069Z",
+  "generated_at": "2026-11-17T20:01:56.919Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -323,6 +323,19 @@
       "last_pushed_at": "2026-11-17T19:58:48.295Z",
       "language": "sql",
       "lines": 3
+    },
+    "problem:1117": {
+      "kind": "problem",
+      "id": "1117",
+      "title": "Values Appearing Three or More Times Consecutively",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1117",
+      "path": "problems/1117-values-appearing-three-or-more-times-consecutively",
+      "first_solved_at": "2026-11-17T20:01:50.158Z",
+      "last_pushed_at": "2026-11-17T20:01:50.158Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
