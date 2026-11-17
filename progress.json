@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:58:37.347Z",
+  "generated_at": "2026-11-17T19:58:55.069Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -320,7 +320,7 @@
       "url": "https://www.deep-ml.com/problems/1116",
       "path": "problems/1116-running-total-and-moving-average-with-window-frames",
       "first_solved_at": "2026-11-17T19:58:30.669Z",
-      "last_pushed_at": "2026-11-17T19:58:30.669Z",
+      "last_pushed_at": "2026-11-17T19:58:48.295Z",
       "language": "sql",
       "lines": 3
     }
