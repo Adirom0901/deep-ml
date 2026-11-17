@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 22 problems · 0 labs · 0 math
+**23** solved · 22 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-15 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-11-16 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-12 | [solution](problems/0020-decision-tree-learning) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-11-17 | [solution](math/0028-bayesian-methods) |
 
 ---
 
