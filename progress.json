@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:07:58.950Z",
+  "generated_at": "2026-11-17T20:29:07.183Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -349,6 +349,19 @@
       "last_pushed_at": "2026-11-17T20:07:52.225Z",
       "language": "sql",
       "lines": 3
+    },
+    "problem:1120": {
+      "kind": "problem",
+      "id": "1120",
+      "title": "Highest Total Daily Order Cost in a Date Range",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1120",
+      "path": "problems/1120-highest-total-daily-order-cost-in-a-date-range",
+      "first_solved_at": "2026-11-17T20:29:00.335Z",
+      "last_pushed_at": "2026-11-17T20:29:00.335Z",
+      "language": "sql",
+      "lines": 7
     }
   }
 }
