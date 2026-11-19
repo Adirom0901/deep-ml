@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 27 problems · 0 labs · 1 math
+**29** solved · 28 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-10 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Days Warmer Than the Previous Day](https://www.deep-ml.com/problems/1118) | medium | 2026-11-17 | [solution](problems/1118-days-warmer-than-the-previous-day) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-11-17 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
+| [Highest-Paid Workers with Title Join and Ties](https://www.deep-ml.com/problems/1121) | medium | 2026-11-19 | [solution](problems/1121-highest-paid-workers-with-title-join-and-ties) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-11 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-11 | [solution](problems/0017-k-means-clustering) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-10 | [solution](problems/0007-matrix-transformation) |
