@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:20:58.458Z",
+  "generated_at": "2026-11-20T18:25:20.627Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -437,7 +437,7 @@
       "url": "https://www.deep-ml.com/problems/1125",
       "path": "problems/1125-top-n-percent-by-group-with-ntile",
       "first_solved_at": "2026-11-20T18:20:57.834Z",
-      "last_pushed_at": "2026-11-20T18:20:57.834Z",
+      "last_pushed_at": "2026-11-20T18:25:19.434Z",
       "language": "sql",
       "lines": 7
     }
