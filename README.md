@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 33 problems · 0 labs · 1 math
+**35** solved · 34 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-10 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Days Warmer Than the Previous Day](https://www.deep-ml.com/problems/1118) | medium | 2026-11-17 | [solution](problems/1118-days-warmer-than-the-previous-day) |
 | [Each Customer's Lowest-Priced Order](https://www.deep-ml.com/problems/1122) | medium | 2026-11-19 | [solution](problems/1122-each-customer-s-lowest-priced-order) |
+| [Employees Earning Above Their Department Average (Correlated Subquery)](https://www.deep-ml.com/problems/1126) | medium | 2026-11-20 | [solution](problems/1126-employees-earning-above-their-department-average-correlated-subquery) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-11-17 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Highest-Paid Workers with Title Join and Ties](https://www.deep-ml.com/problems/1121) | medium | 2026-11-19 | [solution](problems/1121-highest-paid-workers-with-title-join-and-ties) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-11 | [solution](problems/0018-implement-k-fold-cross-validation) |
