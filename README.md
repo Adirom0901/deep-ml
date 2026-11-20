@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**36** solved · 35 problems · 0 labs · 1 math
+**37** solved · 36 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top-N Most Profitable Companies with DENSE_RANK](https://www.deep-ml.com/problems/1123) | medium | 2026-11-19 | [solution](problems/1123-top-n-most-profitable-companies-with-dense-rank) |
 | [Top-N Percent by Group with NTILE](https://www.deep-ml.com/problems/1125) | medium | 2026-11-20 | [solution](problems/1125-top-n-percent-by-group-with-ntile) |
 | [Values Appearing Three or More Times Consecutively](https://www.deep-ml.com/problems/1117) | medium | 2026-11-17 | [solution](problems/1117-values-appearing-three-or-more-times-consecutively) |
+| [Cohort Retention: First Login and Consecutive-Day Logins](https://www.deep-ml.com/problems/1119) | hard | 2026-11-20 | [solution](problems/1119-cohort-retention-first-login-and-consecutive-day-logins) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-12 | [solution](problems/0020-decision-tree-learning) |
 
 ## Math
